@@ -2,7 +2,7 @@
 
 # Alternative (macOS) Icon for Neovide
 
-I only recently gave [neovim](https://neovim.io) a try and quickly found out about the wonderful [Neovide](https://github.com/neovide/neovide) front end.
+I only recently gave [neovim](https://neovim.io) a try and quickly found out about the wonderful [Neovide](https://github.com/neovide/neovide) front end. I love it. :c)
 
 This is my take on the Neovide application icon, since I wanted it to fit better in my Dock.
 
